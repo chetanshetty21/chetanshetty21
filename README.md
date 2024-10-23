@@ -3,7 +3,7 @@
 <img align="right"alt="ChetanShetty21"width="400"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanshetty21&label=Profile%20views&color=0e75b6&style=flat" alt="chetanshetty21" /> </p>
-<h4 align="center">- 🌱 I am a software engineer specializing in Java, Spring Boot, web technologies, and SQL. With a strong background in building dynamic web applications and backend systems, I am passionate about creating scalable, efficient, and user-centric solutions. I enjoy working with modern development frameworks and tools to deliver high-quality code that meets business needs.</h4>
+<h4 align="center" style="text-align: center;">- 🌱 I am a software engineer specializing in Java, Spring Boot, web technologies, and SQL. With a strong background in building dynamic web applications and backend systems, I am passionate about creating scalable, efficient, and user-centric solutions. I enjoy working with modern development frameworks and tools to deliver high-quality code that meets business needs.</h4>
 - 💬 Ask me about **Core Java, MySQL, HTML**
 
 - 📫 How to reach me **chetansv21@gmail.com**
