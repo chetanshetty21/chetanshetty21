@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanshetty21&label=Profile%20views&color=0e75b6&style=flat" alt="chetanshetty21" /> </p>
 
-- 🌱 I’m currently learning **Core Java, MySQL, HTML**
+- 🌱 I am a software engineer specializing in Java, Spring Boot, web technologies, and SQL. With a strong background in building dynamic web applications and backend systems, I am 
+      passionate about creating scalable, efficient, and user-centric solutions. I enjoy working with modern development frameworks and tools to deliver high-quality code that meets 
+      business needs.
 
 - 💬 Ask me about **Core Java, MySQL, HTML**
 
